@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Splash</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+    <string name="title">title</string>
+    <string name="release_year">release Year</string>
+    <string name="rating">rating</string>
+    <string name="genre">genre</string>
+    <string name="scan_new_movie">scan new movie</string>
+    <string name="updatde_moovie_list">Updatde Moovie List</string>
+    <string name="if_you_don_t_see_click_here">if you don\'t see click here</string>
+</resources>
